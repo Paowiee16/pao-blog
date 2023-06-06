@@ -2,7 +2,7 @@
 ## Learning React Fundamentals
 - useState
 - Custom Hook
-- use Effect
+- useEffect
 - JSON API
 - Router/Switch/Links
 
